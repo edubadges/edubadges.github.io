@@ -1,4 +1,4 @@
-# Edubadges installation instructions
+# Edubadges installation instructions: Backend
 ## How to get started on your local development environment.
 Prerequisites:
 

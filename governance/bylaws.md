@@ -1,4 +1,4 @@
-# The Open Education API 'by-laws'
+# The Edubadges 'by-laws'
 
 ## a.k.a. the Communication guidelines
 Our aim is to communicate as openly as possible, so open platforms are used for this. At the same time, there will also be a need for consultation exclusively within the working group, so there are multiple communication channels. Each channel has its own target group and purpose. The language of communication is Dutch. The language of the specification and discussions on the specification on GitHub is English.

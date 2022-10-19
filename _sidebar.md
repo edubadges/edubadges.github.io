@@ -1,6 +1,6 @@
 * [Home](/)
 * [Governance](governance/)
-  * [Bylaws](governance/bylaws.md)
+  * [By-laws](governance/bylaws.md)
   * [Code of conduct](governance/code-of-conduct.md)
 * [Privacy](privacy/)
   * [Privacy Policy in English](privacy/account-statement-en.md)

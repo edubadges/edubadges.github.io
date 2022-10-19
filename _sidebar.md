@@ -10,7 +10,7 @@
   * [Gebruiksvoorwaarden](privacy/account-terms-nl.md)
   * [Gebruiksvoorwaarden kort](privacy/account-excerpt-nl.md)
 * [Technical information](technical/)
+  * [Architecture](technical/architecture.md)
   * [Installation backend](technical/backend.md)
   * [Installation frontend](technical/frontend.md)
-  * [Architecture](technical/architecture.md)
 * [Contact](contact.md)

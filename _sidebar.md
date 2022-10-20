@@ -1,4 +1,4 @@
-* [Home](/)
+* [About Edubadges](/)
 * [Governance](governance/)
   * [By-laws](governance/bylaws.md)
   * [Code of conduct](governance/code-of-conduct.md)

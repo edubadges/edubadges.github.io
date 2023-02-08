@@ -1,4 +1,4 @@
-Strategic Alignment: the Big Picture
+4: Strategic Alignment: the Big Picture
 ------------------------------------
 
 How should Edubadges approach the digital credentials landscape, when it has so many shifting factors that affect investments? The answer is to maintain focus. Identify a limited number of scenarios in which new opportunities are opened for learners _because of the badges those learners hold and present_. Then ensure learners can bring their badges to these contexts. The goal is software that facilitates badge transfer to the destinations that are ready to receive them.

@@ -1,4 +1,4 @@
-Use Cases in Detail
+6: Use Cases in Detail
 -------------------
 
 There are several specific requirements or goals that the Edubadges system attempts to serve. In this section, we explore how the migration to Open Badges 3.0 enables or complicates the system’s ability to accomplish these goals.

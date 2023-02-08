@@ -1,4 +1,4 @@
-Introduction
+1: Introduction
 ------------
 
 SURF has contracted with Skybridge Skills to analyze how the Edubadges project could approach an upgrade from Open Badges 2.0 (OB2) to the forthcoming 3.0 version of the Open Badges Specification. The report will situate Open Badges 3.0 (OB3) implementation for the Edubadges project within a broader context of architectural needs and an evolving interoperability landscape within which awarded Edubadges are to have meaning.

@@ -1,4 +1,4 @@
-Appendix B: Resources
+8: Appendix B: Resources
 ---------------------
 
 The following resources provide more detail on specific topics. This list includes links to technical components of the Edubadges system as it exists today and information about the evolving digital credentials ecosystem.

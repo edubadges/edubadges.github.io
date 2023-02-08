@@ -1,4 +1,4 @@
-Edubadges Architecture Considerations
+5: Edubadges Architecture Considerations
 -------------------------------------
 
 This section examines different parts of the Edubadges architecture and lays out recommendations for a right-sized pilot initial rollout of Open Badges 3.0 Issuer capabilities.

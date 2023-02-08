@@ -1,4 +1,4 @@
-Appendix A: User Stories and Milestones
+7: Appendix A: User Stories and Milestones
 ---------------------------------------
 
 First, stories are collected, then they are organized into epics or milestones.

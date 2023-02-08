@@ -1,4 +1,4 @@
-## Executive Summary
+## 2: Executive Summary
 
 After more than 12 years of exploration of the digital credentials landscape, the Open Badges Specification 3.0 release is underway. This includes a large realignment toward cryptographic verification and a step towards compatibility within a broadening digital credentials ecosystem through the adoption of the Verifiable Credentials Data Model, a W3C recommendation.
 

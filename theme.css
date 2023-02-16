@@ -1,8 +1,8 @@
 :root {
-    --base-font-size: 14px;
+    --base-font-size: 16px;
     --theme-color: #03818d;
 
-    --content-max-width: 65em;
+    --content-max-width: 75em;
 
     // --sidebar-nav-link-padding: 0.40em 0;
 

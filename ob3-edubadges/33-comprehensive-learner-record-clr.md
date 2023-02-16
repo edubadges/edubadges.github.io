@@ -16,3 +16,9 @@ What challenges would Edubadges face if it pursued CLR implementation?
 *   The early implementation landscape will be skewed towards CLR issuers rather than consumers, so there are few benefits in terms of consumer access for early adopter issuers.
 *   Because of the “VC within a VC” structure of `ClrCredentials`, only the outer layer of this credential onion is unpacked by many tools that are compatible with Verifiable Credentials yet lack consumer-side support for CLR specifically. This is also a challenge for `OpenBadgeCredentials`, but with a `ClrCredential`, so much of the meaning is conveyed only by the individual `OpenBadgeCredentials` within, rather than the outer layer that the basic VC level display that might only cover the credential name and the name of the issuer. A basic compatibility display of a CLR like this would result in very little of the actual data in the credential being displayed until the credential is presented to a consumer that had full-fledged CLR support.
 *   It is unknown whether CLR conformance certification will require the implementation of the API component of the CLR 2.0 spec. For Open Badges, API support is an optional part of conformance. Edubadges should not highly value conformance certification. The primary value remains in the opportunities opened for learners, but the cost of implementing necessary features for conformance should be considered.
+
+
+---
+
+| [Back to Index](README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](32-1edtech-specification-process.md) |
+| :--- |  :---:  | ---: |

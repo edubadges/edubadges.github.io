@@ -28,3 +28,8 @@ Here is a schedule of pilots and production service launch events that could res
 *   Production: Complete refinements of the user experience, and launch successfully piloted features to all users, with focus on partners that consume edubadges.
 
 The next chapter (Architecture Considerations) outlines some specific architectural challenges and identifies recommended paths forward in each area, as much as possible, including for architectural simplification and the addition of new secure cryptographic signing tech stack components. The following chapter (Use Cases in Detail) provides an in-depth technical guide to the data model level of the implementation of pilot 1. The appendix (User Stories and Milestones) describes the user’s experience of Pilot 1 and Pilot 2 features.
+  
+---
+
+| [Back to Index](README.md)   |  [Previous Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md)     | [Next Chapter 5: Edubadges Architecture Considerations](50-edubadges-architecture-considerations.md) |
+| :--- | :---: | ---: |

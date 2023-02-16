@@ -19,3 +19,8 @@ The following resources provide more detail on specific topics. This list includ
     *   [Wallet UX demo/design](https://wiki.surfnet.nl/display/SSI/Resultaten+SSI+wallet+poc)
 *   [VC-API draft specification](https://w3c-ccg.github.io/vc-api/) has not achieved official status within the Credentials Community Group, but there is some desire to publish it through that group as a non-normative draft report. Edubadges could act as an Issuer Coordinator connected to an Issuer Service/Status Service microservice responsible for signing credentials and keeping keys safe.
 *   [eIDAS Toolkit for Businesses](https://digital-strategy.ec.europa.eu/en/news/eidas-toolkit-businesses) - toolkit is required to support methods chosen by any member country, will be expensive to build, but theoretically will support credential formats and transport protocol supported by Dutch government. See further notes in the [SURF wiki](https://wiki.surfnet.nl/display/EduCr/The+European+Digital+Identity+Wallet+Architecture+and+Reference+Framework).
+
+---
+
+| [Back to Index](README.md)  | [Previous Chapter 7: Appendix A: User Stories and Milestones](70-appendix-a-user-stories-and-milestones.md)
+| :--- | :---: | ---: |

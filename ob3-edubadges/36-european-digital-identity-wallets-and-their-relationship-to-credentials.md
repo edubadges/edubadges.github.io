@@ -15,3 +15,9 @@ There are unknowns around future government regulation in this space. For exampl
 Core SURF use cases outside of Edubadges exist around transferring records of courses completed from European institutions outside of the Netherlands, separate from the final credential system. The eIDAS wallet and EBSI trust frameworks identify “qualified” and non-qualified issuers. It is unclear how regulations might limit or enable the non-qualified niche, whether they’ll actually be able to be verifiable by wallets). Some data might be able to go anywhere, but some data might be restricted. Professional certifications are an identified category of credential important for interactions in the real world, such as governmental license checks for forklift driver certifications.
 
 It is wise for SURF to develop options for integration with wallets in the European digital identity ecosystem, but rushing into integration with a wallet that seems promising today may yield little compatibility with credentials already issued at SURF (including Edubadges) and will do little to inoculate against the necessity of follow-up work to enable credentials to flow to the not-yet-established destinations where they will need to travel in 5 years.
+
+
+---
+
+| [Back to Index](README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](32-1edtech-specification-process.md) |
+| :--- |  :---:  | ---: |

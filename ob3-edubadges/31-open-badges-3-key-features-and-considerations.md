@@ -21,3 +21,8 @@ Three OpenBadgeCredentials are in a VerifiablePresentation. Each OpenBadgeCreden
 See an extended [discussion](#achievement-definitions-in-ob-3.0) of how consumers may process and understand advanced Achievement use cases in a later chapter.
 
 **Improved opportunities for learner privacy and control**: There are a number of impacts of OB 3.0 on learners’ ability to control the privacy of their data. Specifically, cryptographically signed badges no longer necessitate a publicly hosted JSON file for verification, meaning that access to verifiable copies of the credential are no longer immediately available to anybody who has the URL. The potential to receive badges where learners are identified using Decentralized Identifiers (DIDs) potentially enables some further protection of learners against unwanted correlation, which may be valuable as people are increasingly becoming aware how they are tracked across the web by advertisers and other companies. Products that update to OB 3.0 have an opportunity to take advantage of these new features to reduce the exposure of learner data and increase learner control over how and when data is shared. These benefits are not automatic consequences of adopting OB 3.0; they require strategic selection of implementation options and the development of new features specifically to take advantage of these options.
+
+---
+
+| [Back to Index](README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](32-1edtech-specification-process.md) |
+| :--- |  :---:  | ---: |

@@ -19,3 +19,9 @@ What does it look like from a user’s perspective to interact with a mobile wal
 > Pieter installs the app on his phone and sets it up. Back in Edubadges on his desktop computer browser, he selects to proceed to connect to a mobile wallet. He chooses edubadges representing courses and several of the competency achievements to send to the wallet initially. He is directed to an experience where he is directed to scan a QR code displayed on screen. The scan results in a URL that he can open in the wallet app he installed. He sees a confirmation screen where his wallet asks if he would like to confirm a connection to Edubadges. He approves this request and is informed that there is a successful connection. He looks back at his desktop browser and sees a confirmation screen there as well saying that credentials have been downloaded to the wallet. On the phone in the list of credentials he sees the edubadges he selected to send.
 
 Here, Pieter walks through the experience of downloading a mobile app to use as a wallet for credentials including several `OpenBadgeCredential`s. Edubadges is compatible with one particular wallet that was chosen for a pilot here, though in the future, the service might support integration with other wallets as well, that might use different options for the various layers of the credentials tech stack.
+
+
+---
+
+| [Back to Index](README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](32-1edtech-specification-process.md) |
+| :--- |  :---:  | ---: |

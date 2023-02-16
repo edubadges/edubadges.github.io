@@ -8,3 +8,8 @@ The launch of the Open Badges 3.0 specification, expected for final release in e
 * [3.4: Other standards and ecosystems in development in Europe](34-other-standards-and-ecosystems-in-development-in-europe.md)
 * [3.5: Verifiable Credentials wallets](35-verifiable-credentials-wallets.md)
 * [3.6: European digital identity wallets and their relationship to credentials](36-european-digital-identity-wallets-and-their-relationship-to-credentials.md)
+  
+---
+
+| [Back to Index](README.md)   | [Previous Chapter 2: Executive Summary](20-executive-summary.md)    | [Next Chapter 4: Strategic Alignment: the Big Picture](40-strategic-alignment-the-big-picture.md) |
+| :--- | :---: | ---: |

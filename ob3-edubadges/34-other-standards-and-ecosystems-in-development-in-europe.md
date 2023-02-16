@@ -15,3 +15,9 @@ The vision for interconnection between these European projects is expansive, but
 These European projects feature many compatible technology choices with OB 3.0, but there are also some key differences. Both OB 3.0 and European Learning Model offer a data model that can be referenced within W3C Verifiable Credentials, but the credentials schema and the cryptographic tools associated with it vary between these ecosystems.
 
 There are a number of complexities involved in the implementation of each OB 3.0 and the eIDAS family of initiatives. Though there are similarities, implementing one does not necessarily make the path to implementing another significantly shorter. In order to maintain architectural stability and flexibility, Edubadges should be aware of the general principles covered by various initiatives in the European orbit and understand that expression of credentials in this ecosystem, like implementation of OB 3.0, is largely a matter of data formatting and transmission. A common basic data model may be expressed in multiple “serializations” and transmitted to learners or consumers via more than one “protocol”. Presenting the options to users to trigger specific integrations and building back-end capabilities to effect each transmission is a matter of building a modular application architecture and user experience (UX). Finding the right levels at which these models share attributes and the right points at which interaction with each model requires unique interfaces should be the focus of architectural refactoring of Edubadges over the next several years.
+
+
+---
+
+| [Back to Index](README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](32-1edtech-specification-process.md) |
+| :--- |  :---:  | ---: |

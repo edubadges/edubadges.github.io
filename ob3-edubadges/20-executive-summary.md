@@ -19,3 +19,8 @@ Architectural improvements and simplifications are an essential part of a produc
 Implementing OB 3.0 requires a significant amount of work, and it requires new security considerations. One option that may reduce costs for Edubadges is integration with ORCA, a forthcoming open source OB 3.0 issuing microservice under development by Skybridge Skills and partners. It implements an approach to Open Badges compatible with the recommendations laid out in this report. Risks and benefits of OB 3.0 delivery through a specialized microservice are presented.
 
 Edubadges is poised to be a leader in the digital credentials ecosystem, because it is open source, and because it has a chance to set a pattern for how Open Badges are implemented in the European higher education market. Building momentum in a credential-consuming community around a particular set of technology and user experience choices will be critical in attracting valuable services to this ecosystem. In order to achieve maximum impact, the open source offering must be simple enough to have value for institutions outside of SURF’s network and the credentials must flow to destinations where learners can leverage them to open new opportunities. OB 3.0 and European digital identity initiatives change the landscape Edubadges must navigate to achieve these goals, but SURF’s plan to pilot capabilities and then move to production is the right plan for these challenges.
+
+---
+
+| [Back to Index](README.md)   | [Previous Chapter 1: Introduction](10-introduction.md)     | [Next Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md) |
+| :--- | :---: | ---: |

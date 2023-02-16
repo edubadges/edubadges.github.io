@@ -12,3 +12,8 @@ Services implementing Open Badges fall into one or more ecosystem roles, dependi
 *   Displayer: A product that implements the client side of the Open Badges API. Certification is granted that the product can demonstrate successful registration with the reference Host system, authorization code grant flow execution for a test user, and transmission of signed Open Badge(s) from the reference Host system by making a request for credentials held by a user who completed the authorization flow.
 
 The first hurdle to complete in adopting OB 3.0 is the issuer only (no API) certification. This covers significant scope and is recommended as the primary path Edubadges explore in its first phase of OB 3.0 implementation.
+
+---
+
+| [Back to Index](README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](32-1edtech-specification-process.md) |
+| :--- |  :---:  | ---: |

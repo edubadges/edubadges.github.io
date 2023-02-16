@@ -9,3 +9,8 @@ This section examines different parts of the Edubadges architecture and lays out
 * [5.4: Simplifying Edubadges](54-simplifying-edubadges.md)
 * [5.5: OB 3.0 as a microservice](55-ob3-as-a-microservice.md)
 * [5.6: ORCA - Open Recognition Community App](56-orca-open-recognition-community-app.md) 
+
+---
+
+| [Back to Index](README.md)   |  [Previous Chapter 4: Strategic Alignment: the Big Picture](40-strategic-alignment-the-big-picture.md) |    [Next Chapter 6: Use Cases in Detail](60-use-cases-in-detail.md) |
+| :--- | :---: | ---: |

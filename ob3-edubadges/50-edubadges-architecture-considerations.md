@@ -12,5 +12,5 @@ This section examines different parts of the Edubadges architecture and lays out
 
 ---
 
-| [Back to Index](README.md)   |  [Previous Chapter 4: Strategic Alignment: the Big Picture](40-strategic-alignment-the-big-picture.md) |    [Next Chapter 6: Use Cases in Detail](60-use-cases-in-detail.md) |
+| [Back to Index](ob3-edubadges/README.md)   |  [Previous Chapter 4: Strategic Alignment: the Big Picture](ob3-edubadges/40-strategic-alignment-the-big-picture.md) |    [Next Chapter 6: Use Cases in Detail](ob3-edubadges/60-use-cases-in-detail.md) |
 | :--- | :---: | ---: |

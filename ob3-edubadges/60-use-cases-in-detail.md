@@ -11,5 +11,5 @@ There are several specific requirements or goals that the Edubadges system attem
 * [6.6: Revocation](66-revocation.md)
 ---
 
-| [Back to Index](README.md)   | [Previous Chapter 5: Edubadges Architecture Considerations](50-edubadges-architecture-considerations.md)    | [Next Chapter 7: Appendix A: User Stories and Milestones](70-appendix-a-user-stories-and-milestones.md) |
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 5: Edubadges Architecture Considerations](ob3-edubadges/50-edubadges-architecture-considerations.md)    | [Next Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md) |
 | :--- | :---: | ---: |

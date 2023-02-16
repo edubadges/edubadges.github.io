@@ -31,5 +31,5 @@ The next chapter (Architecture Considerations) outlines some specific architectu
   
 ---
 
-| [Back to Index](README.md)   |  [Previous Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md)     | [Next Chapter 5: Edubadges Architecture Considerations](50-edubadges-architecture-considerations.md) |
+| [Back to Index](ob3-edubadges/README.md)   |  [Previous Chapter 3: The Open Badges and Digital Credentials Landscape](ob3-edubadges/30-the-open-badges-and-digital-credentials-landscape.md)     | [Next Chapter 5: Edubadges Architecture Considerations](ob3-edubadges/50-edubadges-architecture-considerations.md) |
 | :--- | :---: | ---: |

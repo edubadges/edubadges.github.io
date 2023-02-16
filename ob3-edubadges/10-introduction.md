@@ -34,6 +34,8 @@ The how-to section presents named development epics made up of user stories:
 *   How to issue cryptographically signed Open Badges 3.0 `OpenBadgeCredentials` conformant with the 1EdTech specification
 *   How to support sharing to social media or email via URL, supporting preview cards in platforms that use them
 *   Approaches to achieving compatibility with standards and ecosystems relevant to Edubadges stakeholders, including Europass and the European Learning Model, EBSI, and eIDAS/ESSIF
+  
   ---
-| [Back to Index](README.md)   |      | [Next Chapter 2: Executive Summary](20-executive-summary.md) |
+  
+| [Back to Index](ob3-edubadges/README.md)   |      | [Next Chapter 2: Executive Summary](ob3-edubadges/20-executive-summary.md) |
 | :--- | :---: | ---: |

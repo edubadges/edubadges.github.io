@@ -22,5 +22,5 @@ The following resources provide more detail on specific topics. This list includ
 
 ---
 
-| [Back to Index](README.md)  | [Previous Chapter 7: Appendix A: User Stories and Milestones](70-appendix-a-user-stories-and-milestones.md)
+| [Back to Index](ob3-edubadges/README.md)  | [Previous Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md)
 | :--- | :---: | ---: |

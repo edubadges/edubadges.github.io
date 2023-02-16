@@ -11,5 +11,5 @@ First, stories are collected, then they are organized into epics or milestones.
 
 ---
 
-| [Back to Index](README.md)   | [Previous Chapter 6: Use Cases in Detail](60-use-cases-in-detail.md)    | [Next Chapter 8: Appendix B: Resources](80-appendix-b-resources.md) |
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 6: Use Cases in Detail](ob3-edubadges/60-use-cases-in-detail.md)    | [Next Chapter 8: Appendix B: Resources](ob3-edubadges/80-appendix-b-resources.md) |
 | :--- | :---: | ---: |

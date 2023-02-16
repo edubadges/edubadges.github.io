@@ -11,5 +11,5 @@ The launch of the Open Badges 3.0 specification, expected for final release in e
   
 ---
 
-| [Back to Index](README.md)   | [Previous Chapter 2: Executive Summary](20-executive-summary.md)    | [Next Chapter 4: Strategic Alignment: the Big Picture](40-strategic-alignment-the-big-picture.md) |
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 2: Executive Summary](ob3-edubadges/20-executive-summary.md)    | [Next Chapter 4: Strategic Alignment: the Big Picture](ob3-edubadges/40-strategic-alignment-the-big-picture.md) |
 | :--- | :---: | ---: |

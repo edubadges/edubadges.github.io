@@ -15,5 +15,5 @@ The first hurdle to complete in adopting OB 3.0 is the issuer only (no API) cert
 
 ---
 
-| [Back to Index](README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](32-1edtech-specification-process.md) |
+| [Back to Index](ob3-edubadges/README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](ob3-edubadges/30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](ob3-edubadges/32-1edtech-specification-process.md) |
 | :--- |  :---:  | ---: |

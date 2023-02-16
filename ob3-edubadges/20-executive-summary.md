@@ -22,5 +22,5 @@ Edubadges is poised to be a leader in the digital credentials ecosystem, because
 
 ---
 
-| [Back to Index](README.md)   | [Previous Chapter 1: Introduction](10-introduction.md)     | [Next Chapter 3: The Open Badges and Digital Credentials Landscape](30-the-open-badges-and-digital-credentials-landscape.md) |
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 1: Introduction](ob3-edubadges/10-introduction.md)     | [Next Chapter 3: The Open Badges and Digital Credentials Landscape](ob3-edubadges/30-the-open-badges-and-digital-credentials-landscape.md) |
 | :--- | :---: | ---: |

@@ -1,8 +1,8 @@
 ## Open Badges 3.0 Architecture for EduBadges
 
-  * [1: Introduction](ob3-edubadges/10-introduction.md)
-  * [2: Executive Summary](ob3-edubadges/20-executive-summary.md)
-  * [3: The Open Badges and Digital Credentials Landscape](ob3-edubadges/30-the-open-badges-and-digital-credentials-landscape.md)
+  * [1: Introduction](/ob3-edubadges/10-introduction.md)
+  * [2: Executive Summary](/ob3-edubadges/20-executive-summary.md)
+  * [3: The Open Badges and Digital Credentials Landscape](/ob3-edubadges/30-the-open-badges-and-digital-credentials-landscape.md)
     * [3.1: Open Badges 3.0 key features and considerations](ob3-edubadges/31-open-badges-3-key-features-and-considerations.md)
     * [3.2: 1EdTech specification process](ob3-edubadges/32-1edtech-specification-process.md)
     * [3.3: Comprehensive Learner Record (CLR)](ob3-edubadges/33-comprehensive-learner-record-clr.md)

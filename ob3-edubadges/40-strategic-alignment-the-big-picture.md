@@ -7,9 +7,9 @@ An example might be Edubadges connecting with a partner vendor that makes HR app
 
 Each set of tech stack choices potentially establishes a channel over which achievement credentials are communicated. There are many such possible combinations, and Edubadges cannot invest in integration with them all, in order to maintain focus and budget. The risk is that different channel choices reach different potential consumers. Building ecosystem momentum around transmission paths that are working is important. If a reinforcing cycle around a common pattern develops early, that will increase the chances of connection for a particular learner.
 
-![There is a risk of fragmentation of the ecosystem along every different layer of the tech stack where there are incompatible choices, such as wallet protocol](./assets/02-credential-distribution-channels.jpeg)
+![There is a risk of fragmentation of the ecosystem along every different layer of the tech stack where there are incompatible choices, such as wallet protocol](assets/02-credential-distribution-channels.jpeg)
 
-There is a risk of fragmentation of the ecosystem along every different layer of the tech stack where there are incompatible choices, such as wallet protocol
+*Figure 2: There is a risk of fragmentation of the ecosystem along every different layer of the tech stack where there are incompatible choices, such as wallet protocol.*
 
 At the same time, it is important that no individual learner is left without an adequate channel through which to make use of their badges, just because the employer they want to work with or the school where they want to apply doesn’t use a particular protocol that is the one Edubadges has chosen to support.
 

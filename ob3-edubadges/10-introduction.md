@@ -9,31 +9,31 @@ It will outline how to think about applying resources to enable pilot exploratio
 
 A number of factors establish the landscape in which SURF aims to launch pilots and a production service offering Open Badges 3.0 capabilities. This paper addresses ecosystem components and trends including:
 
-*   Open Badges 3.0 key features
-*   The Verifiable Credentials Data Model
-*   Spec development, release process, and conformance testing
-*   Comprehensive Learner Record (CLR)
+*   Open Badges 3.0 key features.
+*   The Verifiable Credentials Data Model.
+*   Spec development, release process, and conformance testing.
+*   Comprehensive Learner Record (CLR).
 
 The Architecture Recommendations section lays out broad considerations that guide upgrading Edubadges into its next iteration that supports OB3:
 
 *   Options for layers of the Verifiable Credentials tech stack.
-*   User flows for privacy and control of personal data, updated for 3.0 capabilities, opportunities and challenges. Particularly, we consider how Edubadges can comply with a requirement to expunge personal data after 5 years without renewal of a user agreement that enables processing
-*   Security considerations for custody of signing keys
-*   Approaches to enabling consumer verification of badge awards for authenticity
+*   User flows for privacy and control of personal data, updated for 3.0 capabilities, opportunities and challenges. Particularly, we consider how Edubadges can comply with a requirement to expunge personal data after 5 years without renewal of a user agreement that enables processing.
+*   Security considerations for custody of signing keys.
+*   Approaches to enabling consumer verification of badge awards for authenticity.
 
 Several use cases are explored in detail:
 
-*   How to implement OB 3.0 at the data model level, with a discussion of the impact of the changes on how the “achievement” claimed by a badge may be understood
-*   Data minimization and defensible deletion after retention period
-*   Sharing badges to social media
-*   SIS and LMS integration for badge award automation
-*   How revocation works differently for cryptographically signed badges
+*   How to implement OB 3.0 at the data model level, with a discussion of the impact of the changes on how the “achievement” claimed by a badge may be understood.
+*   Data minimization and defensible deletion after retention period.
+*   Sharing badges to social media.
+*   SIS and LMS integration for badge award automation.
+*   How revocation works differently for cryptographically signed badges.
 
 The how-to section presents named development epics made up of user stories:
 
-*   How to issue cryptographically signed Open Badges 3.0 `OpenBadgeCredentials` conformant with the 1EdTech specification
-*   How to support sharing to social media or email via URL, supporting preview cards in platforms that use them
-*   Approaches to achieving compatibility with standards and ecosystems relevant to Edubadges stakeholders, including Europass and the European Learning Model, EBSI, and eIDAS/ESSIF
+*   How to issue cryptographically signed Open Badges 3.0 `OpenBadgeCredentials` conformant with the 1EdTech specification.
+*   How to support sharing to social media or email via URL, supporting preview cards in platforms that use them.
+*   Approaches to achieving compatibility with standards and ecosystems relevant to Edubadges stakeholders, including Europass and the European Learning Model, EBSI, and eIDAS/ESSIF.
   
   ---
   

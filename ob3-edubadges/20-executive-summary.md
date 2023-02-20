@@ -6,7 +6,7 @@ Edubadges can reach new audiences in coming years through updating its implement
 
 A balanced path through pilots to a production launch of next-generation digital credentials looks like this:
 
-*   Continue supporting OB 2.0 verification
+*   Continue supporting OB 2.0 verification.
 *   Continue supporting URL based sharing, and add credential value enabling users to add Edubadges to LinkedIn profiles, the current most consequential sharing destination.
 *   Simplify the Edubadges service architecturally, and address tech debt.
 *   Pilot 1: Add new OB 3.0 issuer support, achieving 1EdTech’s Issuer certification role, but do not yet implement the optional API.

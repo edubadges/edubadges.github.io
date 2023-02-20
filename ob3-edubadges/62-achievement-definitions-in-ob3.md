@@ -10,7 +10,7 @@ The VC data model that OB 3.0 adopts places the issuer link in the OpenBadgeCred
 
 ![OB 2.0 has Assertion with an arrow to BadgeClass with an arrow to Issuer. OB 3.0 has OpenBadgeCredential with an arrow to Achievement and an Arrow to Issuer, and Achievement also has a creator arrow to issuer](./assets/04-achievements-1.jpg)
 
-OB 2.0 has Assertion with an arrow to BadgeClass with an arrow to Issuer. OB 3.0 has OpenBadgeCredential with an arrow to Achievement and an Arrow to Issuer, and Achievement also has a creator arrow to issuer
+*Figure 3: OB 2.0 has Assertion with an arrow to BadgeClass with an arrow to Issuer. OB 3.0 has OpenBadgeCredential with an arrow to Achievement and an Arrow to Issuer, and Achievement also has a creator arrow to issuer.*
 
 It is not necessary to independently host a copy of the Achievement for OB 3.0, but it is strongly recommended. But even if you do, achievements are now embedded in portable signed OpenBadgeCredentials, and the data within the credential may vary from data expressed accessed at the HTTPS `id` of the Achievement.
 
@@ -20,7 +20,7 @@ When an Achievement uses a HTTPS URL as an `id` where it may be fetched, and the
 
 ![Verifier symbol with an http request arrow going to one copy of an Achievement, and a OpenBadgeCredential with an arrow going to another copy of the same Achievement.](./assets/04-same-achievement.jpeg)
 
-Verifier symbol with an http request arrow going to one copy of an Achievement, and a OpenBadgeCredential with an arrow going to another copy of the same Achievement.
+*Figure 4: Verifier symbol with an http request arrow going to one copy of an Achievement, and a OpenBadgeCredential with an arrow going to another copy of the same Achievement.*
 
 Because of the shift to cryptographic signing, verifiers are expected to interpret the copy that is embedded in the signed OpenBadgeCredential as the achievement value, as it was understood at the time the credential was issued. This is a subtle but consequential paradigm shift. It will simply take time actually encountering issues like these badges in production and working through interpreting meaning from those badges in order to know how the ecosystem will interpret different variants of badges.
 
@@ -28,13 +28,13 @@ It is now possible for an Achievement to identify a creator that is separate fro
 
 ![An OpenBadgeCredential with an arrow to an Achievement and an arrow to an Issuer. The Achievement has an arrow labeled creator to a different Issuer.](./assets/04-separate-creator.jpeg)
 
-An OpenBadgeCredential with an arrow to an Achievement and an arrow to an Issuer. The Achievement has an arrow labeled creator to a different Issuer.
+*Figure 5: An OpenBadgeCredential with an arrow to an Achievement and an arrow to an Issuer. The Achievement has an arrow labeled creator to a different Issuer.*
 
 Many badges will not identify a creator of the Achievement, as it is embedded in the OpenBadgeCredential. In these cases, it should be assumed that the credential issuer is also the one responsible for the Achievement definition. In OB 3.0 there is no specific capability to determine that an issuer profile “Issuer A” that is claimed to be the creator of an Achievement in an OpenBadgeCredential signed by “Issuer B” actually authored or approved the data included. There is no data integrity checking at this level.
 
 ![An OpenBadgeCredential with an arrow to an Achievement and an arrow to an Issuer. There is no arrow from the Achievement to this issuer or any other as its creator.](./assets/04-no-achievement-creator.jpeg)
 
-An OpenBadgeCredential with an arrow to an Achievement and an arrow to an Issuer. There is no arrow from the Achievement to this issuer or any other as its creator.
+*Figure 6: An OpenBadgeCredential with an arrow to an Achievement and an arrow to an Issuer. There is no arrow from the Achievement to this issuer or any other as its creator.*
 
 While the ecosystem puzzles out what to do with these new cases for Achievements, the OpenBadgeCredentials will continue to show green validity checkmarks at the Verifiable Credentials level whenever they are checked, no matter which of the above variations they exhibit. These previously would have been impossible or invalid.
 

@@ -15,10 +15,10 @@ What would a defensible deletion strategy for issued credentials entail? The sim
 
 1.  Periodically trigger records cleanup task, such as monthly.
 2.  When records cleanup task is run, identify users for whom data needs to be deleted, such as users within 1 month of 5 years after their latest terms agreement.
-3.  For each identified user, delete relevant records: User (BadgeUser), Email Address (and associated case variants and confirmations), terms agreements, Backpack imported assertions, issued badge instances (and associated baked images in media storage)
+3.  For each identified user, delete relevant records: User (BadgeUser), Email Address (and associated case variants and confirmations), terms agreements, Backpack imported assertions, issued badge instances (and associated baked images in media storage).
 
 ![Diagram showing deidentification of a badge award, where PII is stripped out and the recipient identifier is replaced with a randomly generated value](./assets/02-edubadges-deidentification.jpeg)
 
-Diagram showing deidentification of a badge award, where PII is stripped out and the recipient identifier is replaced with a randomly generated value
+*Figure 7: Diagram showing deidentification of a badge award, where PII is stripped out and the recipient identifier is replaced with a randomly generated value.*
 
 Note that the strategy this report recommends is dynamic generation of signed objects on demand. The diagram represents the data as a finished credential, but the system stores the data across rows in one or more tables in a relational database. Deletion of the data entails removing or obfuscating that data at its source which then affects the system’s ability to generate completed credentials. After minimization or deletion, the system would not likely continue to offer to package the incomplete data into a signed credential, and the user account for the user in question would be removed or disabled, so there would be no user to request the credential.

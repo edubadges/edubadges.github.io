@@ -5,7 +5,7 @@
     --content-max-width: 75em;
 
     --sidebar-nav-link-padding: 0.40em 0;
-    --sidebar-name-font-size  
+    --sidebar-name-font-size: 12px;
 
     --zoomimage-overlay-background: rgba(255, 255, 255, 0.875);
   }

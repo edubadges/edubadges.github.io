@@ -12,3 +12,8 @@ The 1EdTech Revocation List Status Method is the only of the above technical opt
 Either of the revocation list methods described here is delivered as an API endpoint offered by the issuer platform much like any OB 2.0 verification endpoint, except that OB 3.0 revocation lists are presumed to include multiple credential statuses in one list. Instructing issuers to report on multiple credentials presented in one list serves an occasionally-mentioned privacy goal where it is proposed that learners may prefer if issuers are not specifically informed when or how often credential consumers are verifying any particular credential. From the issuer platform’s perspective, a client request to verify any particular Open Badge in a list looks the same, and it is not possible for that platform to track users precisely. Having only one endpoint per issuer though would strain under the weight of a massive number of assertions if Edubadges implemented the 1EdTech option. It would be more minimal file sizes if Edubadges implemented the more technically complex Status List 2021 way. The technical differences are likely not as impactful as the consumer-based reasons one approach or the other would be favored.
 
 If the desired strategy for generating signed `OpenBadgeCredential`s is through using [ORCA](#orca---open-recognition-community-app), publishing revocation lists is under the scope of responsibility of that microservice.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   | [Back to Chapter 6: Use Cases in Detail](ob3-edubadges/60-use-cases-in-detail.md) |    [Next Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md) |
+| :--- |  :---:  | ---: |

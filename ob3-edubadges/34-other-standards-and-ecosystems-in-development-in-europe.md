@@ -19,5 +19,5 @@ There are a number of complexities involved in the implementation of each OB 3.0
 
 ---
 
-| [Back to Index](ob3-edubadges/README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](ob3-edubadges/30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](ob3-edubadges/32-1edtech-specification-process.md) |
+| [Back to Index](ob3-edubadges/README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](ob3-edubadges/30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.5: Verifiable Credentials wallets](ob3-edubadges/35-verifiable-credentials-wallets.md) |
 | :--- |  :---:  | ---: |

@@ -373,3 +373,8 @@ The ID above responds with a revocation list. Notes about this response:
             }
         ]
     }
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   | [Back to Chapter 6: Use Cases in Detail](ob3-edubadges/60-use-cases-in-detail.md) |    [Next Chapter 6.2: Achievement definitions in OB 3.0](ob3-edubadges/62-achievement-definitions-in-ob3.md) |
+| :--- |  :---:  | ---: |

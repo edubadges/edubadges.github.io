@@ -22,3 +22,8 @@ New technical capabilities are available for the above stories to be made possib
 It is almost certain that Edubadges users among SURF member institutions will not want to lose the capability to revoke badges, but this does require the publication of a new status list resource for one or more sets of credentials.
 
 *   As an issuer, I can revoke a previously awarded edubadge. It will no longer be valid when attempts are made to verify it. It will appear as revoked in a [revocation list](#revocation) for the issuer.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md)    | [Next Chapter 7.2: Appendix B: Resources](ob3-edubadges/80-appendix-b-resources.md) |
+| :--- | :---: | ---: |

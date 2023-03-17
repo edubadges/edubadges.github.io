@@ -23,5 +23,5 @@ Here, Pieter walks through the experience of downloading a mobile app to use as 
 
 ---
 
-| [Back to Index](ob3-edubadges/README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](ob3-edubadges/30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.2: 1EdTech specification process](ob3-edubadges/32-1edtech-specification-process.md) |
+| [Back to Index](ob3-edubadges/README.md)   | [Back to Chapter 3: The Open Badges and Digital Credentials Landscape](ob3-edubadges/30-the-open-badges-and-digital-credentials-landscape.md) |    [Next Chapter 3.6: European digital identity wallets and their relationship to credentials](ob3-edubadges/36-european-digital-identity-wallets-and-their-relationship-to-credentials.md) |
 | :--- |  :---:  | ---: |

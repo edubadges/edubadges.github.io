@@ -22,3 +22,8 @@ What would a defensible deletion strategy for issued credentials entail? The sim
 *Figure 7: Diagram showing deidentification of a badge award, where PII is stripped out and the recipient identifier is replaced with a randomly generated value.*
 
 Note that the strategy this report recommends is dynamic generation of signed objects on demand. The diagram represents the data as a finished credential, but the system stores the data across rows in one or more tables in a relational database. Deletion of the data entails removing or obfuscating that data at its source which then affects the system’s ability to generate completed credentials. After minimization or deletion, the system would not likely continue to offer to package the incomplete data into a signed credential, and the user account for the user in question would be removed or disabled, so there would be no user to request the credential.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   | [Back to Chapter 6: Use Cases in Detail](ob3-edubadges/60-use-cases-in-detail.md) |    [Next Chapter 6.4: Sharing badges to social media](ob3-edubadges/64-sharing-badges-to-social-media.md) |
+| :--- |  :---:  | ---: |

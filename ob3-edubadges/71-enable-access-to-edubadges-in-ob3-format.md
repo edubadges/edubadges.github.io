@@ -25,5 +25,5 @@ It is almost certain that Edubadges users among SURF member institutions will no
 
 ---
 
-| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md)    | [Next Chapter 7.2: Appendix B: Resources](ob3-edubadges/80-appendix-b-resources.md) |
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md)    | [Next Chapter 7.2: Wallet integration and recipient identifiers](ob3-edubadges/72-wallet-integration-and-recipient-identifiers.md) |
 | :--- | :---: | ---: |

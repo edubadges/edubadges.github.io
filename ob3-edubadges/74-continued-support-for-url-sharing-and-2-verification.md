@@ -11,3 +11,8 @@ User stories that could guide preservation of these capabilities even as new 3.0
 *   **No change**: If I mark an edubadge as private after generating a share URL, when viewers attempt to access the share URL, no badge is returned.
 *   **No change**: If a badge is marked as public, and a bot requests an HTML version of this page
 *   **Enhancement**: If a client requests a frontend URL like `https://www.edubadges.nl/public/assertions/a41jSgmsSh6Sa1xcVUku5Q` and they request JSON as the response with `Accept: application/json` or `Accept: application/ld+json,application/json`, they should be 301 redirected to the backend URL `https://api.edubadges.nl/public/assertions/a41jSgmsSh6Sa1xcVUku5Q` for that object. This should apply to each the assertion, badgeclass/achievement, and issuer endpoints.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md)    | [Next Chapter 7.5: Share a badge to LinkedIn as a Certification on a user’s Profile](ob3-edubadges/75-share-a-badge-to-linkedin-as-a-certification-on-a-users-profile.md) |
+| :--- | :---: | ---: |

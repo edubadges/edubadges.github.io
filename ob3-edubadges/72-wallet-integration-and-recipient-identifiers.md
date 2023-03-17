@@ -8,3 +8,8 @@ When Edubadges selects an appropriate wallet partner based on the opportunities 
 *   As a learner signed in to Edubadges on a desktop computer, I can initiate an integration with the eduID Wallet. I am shown documentation on how to download the wallet on my mobile device, and a QR code that I can scan from that device when I am finished installing it.
 *   I scan the QR code and I am directed to the wallet application (via a deep link). I complete setting up my wallet if needed, and am prompted to approve a connection to the Edubadges service. I approve the connection, and in my browser on my mobile device, and on my desktop session after a few seconds, I see that the connection has been successfully made.
 *   After I have connected a wallet, a DID shows up in my account as a self-sovereign identifier. I can select that badges issued in OB 3.0 format be issued to this identifier in addition to referencing the email address.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md)    | [Next Chapter 7.3: Feature flags and experimental tags](ob3-edubadges/73-feature-flags-and-experimental-tags.md) |
+| :--- | :---: | ---: |

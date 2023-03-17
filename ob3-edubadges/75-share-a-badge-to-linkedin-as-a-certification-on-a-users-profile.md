@@ -6,3 +6,8 @@ See notes in [use case details](#sharing-to-linkedin-as-a-certification-on-the-p
 *   Perhaps there are two LinkedIn sharing options, one for the news feed, and one for the profile.
 *   When I select the option to share to the LinkedIn profile, a new window opens, prefilled with relevant information from my badge.
 *   I can confirm the information (including making minor edits if necessary), and once I submit, a certification is is added to my profile. The badge details page in my backpack is linked for users who want to get more information about this certification.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md)    | [Next Chapter 8: Appendix B: Resources](ob3-edubadges/80-appendix-b-resources.md) |
+| :--- | :---: | ---: |

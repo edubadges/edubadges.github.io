@@ -12,3 +12,8 @@ An alternative that allows all users of a particular release to try out OB 3.0 w
 
 *   As a learner who has earned an edubadge, I can see options to share my badge via URL. I can also see an option to “Download signed edubadge” with a lightly colored label “advanced”.
 *   I can see that the “advanced” label is a clickable link that opens documentation in a new tab. I can get information about OB 3.0, and a suggestion of a couple things I could do with my downloaded badge, like services that accept import of OB 3.0.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   | [Previous Chapter 7: Appendix A: User Stories and Milestones](ob3-edubadges/70-appendix-a-user-stories-and-milestones.md)    | [Next Chapter 7.4: Continued support for URL sharing and 2.0 verification](ob3-edubadges/74-continued-support-for-url-sharing-and-2-verification.md) |
+| :--- | :---: | ---: |

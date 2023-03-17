@@ -11,3 +11,8 @@ Partnership with target consumers and collaborative implementation of this type 
 Production level offerings can follow as successful transfer workflows prove practical for learners to navigate. Previous generations of the Open Badges ecosystem did not explicitly try to demonstrate all of these verification levels, so in order to expand from pilot partners to general audiences, product documentation should offer specific guides for the easiest ways to successfully validate edubadges and make it possible for this information to easily accompany learners as they share credentials with consumers.
 
 **Recommendation**: Identify a target consumer among potential partners for a pilot phase, implement a specific verification workflow, and test it out through scripted user interviews, then follow up for subsequent pilots or production release with the user experience improved and stabilized.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   |  [Previous Chapter 5: Edubadges Architecture Considerations](ob3-edubadges/50-edubadges-architecture-considerations.md) |    [Next Chapter 5.4: Simplifying Edubadges](ob3-edubadges/54-simplifying-edubadges.md) |
+| :--- | :---: | ---: |

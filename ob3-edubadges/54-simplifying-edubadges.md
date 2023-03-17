@@ -30,3 +30,8 @@ Features that should be improved or overhauled:
 *   Replace `allauth` dependency with new more maintainable custom code for auth. This part of the code is intricate and where security risks may crop up. It is very difficult to debug parts of the eduID integration because of the allauth dependency. Search for a new library or rewrite with your own code based on underlying SAML or OAuth/OIDC libraries compatible with Django 5.0, which will have some backwards-incompatible changes. See [release plan notes](https://django.readthedocs.io/en/latest/releases/5.0.html#backwards-incompatible-5-0).
 
 Test coverage improvement is not necessarily a fun activity, but it both improves developer familiarity with the system and improves the ability to be confident that feature removals and modifications have not disrupted critical workflows. Thorough manual QA will also be important to ensure simplified components connected to features that were removed continue to function as designed.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   |  [Previous Chapter 5: Edubadges Architecture Considerations](ob3-edubadges/50-edubadges-architecture-considerations.md) |    [Next Chapter 5.5: OB 3.0 as a microservice](ob3-edubadges/55-ob3-as-a-microservice.md) |
+| :--- | :---: | ---: |

@@ -43,3 +43,8 @@ Depending on unfinished software for an important part of the roadmap is often u
 *   Edubadges maintains ease of pivoting, reducing risk of commitment to a strategy dependent on external factors. The ORCA API is based on open standards including VC-API, so if ORCA is too specific to fit the needs of Edubadges, any other open source VC-API library could be nearly a drop-in replacement, depending on how deep into integration Edubadges is.
 *   The potential benefit of adopting ORCA is high, if the model is close enough to Edubadges architecture. The plan laid out in the next section that could be implemented by Edubadges itself is a near-match to the plan for ORCA OB 3.0 support. This makes it more likely that the ORCA style of implementation of OB 3.0 is a match for Edubadges.
 *   The rest of the analysis in this paper is compatible with ORCA, so the closer this paper meets your needs, the more likely it is that ORCA will also offer the right solution.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   |  [Previous Chapter 5: Edubadges Architecture Considerations](ob3-edubadges/50-edubadges-architecture-considerations.md) |    [Next Chapter 6: Use Cases in Detail](ob3-edubadges/60-use-cases-in-detail.md) |
+| :--- | :---: | ---: |

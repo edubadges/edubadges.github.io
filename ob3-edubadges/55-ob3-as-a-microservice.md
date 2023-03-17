@@ -10,3 +10,8 @@ One implementation approach that would address the above concerns would be to de
 *   Reusability by other organizations. If the architecture of such a microservice can be clearly defined as a small thing for general purpose consumption, a critical mass of implementers could be built up around Edubadges-compatible architecture choices.
 *   Software could more easily take advantage of key open source dependencies from the Verifiable Credentials ecosystem that can’t currently be used within `edubadges-server`. For example, [Digital Bazaar](https://github.com/digitalbazaar?q=vc&type=all&language=javascript&sort=) offers a number of open source packages in JavaScript to accomplish typical Verifiable Credentials tasks.
 *   The existing Edubadges open source offerings could be more precisely targeted for external usage at Universities, and focus the offering more tightly on use cases around institutional management of credentials and student data. Not all consumers of a narrower core package would need these workflows, features, and restrictions.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   |  [Previous Chapter 5: Edubadges Architecture Considerations](ob3-edubadges/50-edubadges-architecture-considerations.md) |    [Next Chapter 5.6: ORCA - Open Recognition Community App](ob3-edubadges/56-orca-open-recognition-community-app.md) |
+| :--- | :---: | ---: |

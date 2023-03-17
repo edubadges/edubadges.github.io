@@ -9,3 +9,8 @@ It is critical to not only keep signing keys safe from unauthorized access but a
 **Recommendation**:
 
 *   Make use of KSMs, preferably with [Hardware Security Modules (HSMs)](https://en.wikipedia.org/wiki/Hardware_security_module) if possible that prevent keys from leaving the device where authorized signing occurs. As a fallback, consider executing credential signing within a microservice specific to that opportunity, where all signatures are reliably logged, so that the potential security consequences of application vulnerabilities in the Django-based backend do not increase risk by allowing that application to load signing keys into memory.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   |  [Previous Chapter 5: Edubadges Architecture Considerations](ob3-edubadges/50-edubadges-architecture-considerations.md) |    [Next Chapter 5.3: Workflows for consumer verification](ob3-edubadges/53-workflows-for-consumer-verification.md) |
+| :--- | :---: | ---: |

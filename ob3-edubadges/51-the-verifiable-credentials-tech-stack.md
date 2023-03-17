@@ -72,3 +72,8 @@ Implementers have to cooperate to ensure high-quality user experience in the exc
 *   Accurately inform users of the experimental status of features and integrations as necessary. Giving users an accurate sense of whether they are traveling a smooth and well-trodden path or a new route that may have pitfalls or dead ends goes a long way to gaining user trust.
 *   Give users fallback options that are likely to succeed if the first path they try fails. For example, offer the chance to choose any wallet that uses a certain supported protocol, but suggest one particular integration as an easy choice, so users don’t get stuck if the wallet they previously used for a different issuer doesn’t work with the protocol used on your site. Sharing credentials by URL is good fallback choice to sharing VCs directly to a wallet, because learners can easily include URLs in a wide variety of communications to many different potential consumers.
 *   Present benefits and risks to user to help them understand their choices. This example emphasized the user-owned nature of DIDs enabled by wallet connection in the face of the potential loss of control of an institutional or organizational email identifier. Products should make users aware of risks, such as any loss of data or verifiability that might be caused by losing a physical device.
+
+---
+
+| [Back to Index](ob3-edubadges/README.md)   |  [Previous Chapter 5: Edubadges Architecture Considerations](ob3-edubadges/50-edubadges-architecture-considerations.md) |    [Next Chapter 5.2: Custody and safekeeping of issuer signing keys](ob3-edubadges/52-custody-and-safekeeping-of-issuer-signing-keys.md) |
+| :--- | :---: | ---: |
